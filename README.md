@@ -149,7 +149,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+inspirations
 
 Designer: Robert Rowe - [@RobertRowe1013](https://twitter.com/robertrowe1013) - [LinkedIn](https://www.linkedin.com/in/robert-rowe-8a41b71a1/)
 
@@ -168,16 +168,3 @@ Project Link: [Tokaido Nakama Landing Page](https://amateurdullahan.github.io/To
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/amateurdullahan/TokaidoNakama.svg?style=flat-square
-[contributors-url]: https://github.com/amateurdullahan/TokaidoNakama/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/amateurdullahan/TokaidoNakama.svg?style=flat-square
-[forks-url]: https://github.com/amateurdullahan/TokaidoNakama/network/members
-[stars-shield]: https://img.shields.io/github/stars/amateurdullahan/TokaidoNakama.svg?style=flat-square
-[stars-url]: https://github.com/amateurdullahan/TokaidoNakama/stargazers
-[issues-shield]: https://img.shields.io/github/issues/amateurdullahan/TokaidoNakama.svg?style=flat-square
-[issues-url]: https://github.com/amateurdullahan/TokaidoNakama/issues
-[license-shield]: https://img.shields.io/github/license/amateurdullahan/TokaidoNakama.svg?style=flat-square
-[license-url]: https://github.com/amateurdullahan/TokaidoNakama/blob/main/LICENSE.txt
-[product-screenshot]: media/fullscreen.jpg
