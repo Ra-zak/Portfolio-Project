@@ -149,7 +149,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
-inspirations
+**inspirations**
 
 Designer: Robert Rowe - [@RobertRowe1013](https://twitter.com/robertrowe1013) - [LinkedIn](https://www.linkedin.com/in/robert-rowe-8a41b71a1/)
 
