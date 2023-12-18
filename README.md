@@ -76,7 +76,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://amateurdullahan.github.io/TokaidoNakama/)
 
-**Tokaido Nakama** assists users with tracking their player score, coin count, and all probabilities while playing the board game Tokaido.  This project was designed by [Robert Rowe](https://github.com/robertrowe1013), with back-end programming by [Dylan Carey](https://github.com/amateurdullahan), and the front-end programming by [Corbin Enterline](https://github.com/corbinenterline1). This application was created as a final project for the Foundations year at Holberton School.  The inspiration was something in the board game space that had not been done before, that would also showcase our skills and help shape our interests in game design.
+**Tokaido Nakama** assists users with tracking their player score, coin count, and all probabilities while playing the board game Tokaido.  This application was created as a final project for the Foundations.  The inspiration was something in the board game space that had not been done before, that would also showcase our skills and help shape our interests in game design.
 
 
 ### Built With
